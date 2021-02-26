@@ -31,7 +31,7 @@ Here is the demo of this [application](https://ahmed12hesham.github.io/to-dolist
 ### Contact
 
 - [Github](https://github.com/ahmed12hesham) :contact:
-- [LinkedIn](https://linkedin.com/in/ahmedhesham) 💼
+- [LinkedIn](https://www.linkedin.com/in/ahmed-hesham-mansour-hussien-52681616a/) 💼
 - [Facebook](https://facebook.com/ahmedhesham) 😎
 - [Twitter](https://twitter.com/HeshamMnsour) 🐤
 - [Website](https://ahmed12hesham.github.io/website/) :globe_with_meridians:
