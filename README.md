@@ -29,7 +29,7 @@ Here are some ideas to benefit from this project:
 
 ### Demo
 
-Here is the demo of this [application](https://salahineo.github.io/todo-list/)
+Here is the demo of this [application](https://ahmed12hesham.github.io/todo-list/)
 
 ### Technologies
 
@@ -47,7 +47,7 @@ Here is the demo of this [application](https://salahineo.github.io/todo-list/)
 - [Facebook](https://facebook.com/salahineo) 😎
 - [Twitter](https://twitter.com/salahineo) 🐤
 - [Website](https://salahineo.github.io/salahineo/) :globe_with_meridians:
-- <a href="mailto:salahineo.work@gmail.com">Email</a> :email:
+- <a href="mailto:ahmed.programmerwebs@gmail.com">Email</a> :email:
 
 ### Copyright and license
 
